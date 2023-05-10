@@ -1,8 +1,8 @@
 #!/bin/sh
 
 VALIDATOR_NAME=validator1
-CHAIN_ID=recipes
-KEY_NAME=recipes-key
+CHAIN_ID=minibar
+KEY_NAME=minibar-key
 CHAINFLAG="--chain-id ${CHAIN_ID}"
 TOKEN_AMOUNT="10000000000000000000000000stake"
 STAKING_AMOUNT="1000000000stake"
